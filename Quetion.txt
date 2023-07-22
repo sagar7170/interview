@@ -1,14 +1,14 @@
-React interview Quetion
+React interview Quet
 
-1.What is react and its feature
-2.what is Virtual DOM
-3.what is state and props
-4.what is prop drilling
-5.what is react hooks
-6.what is react life cycle
-7.how react life cycle method achieved in functional components
-8.what is costom hooks
-9.what is useState/useEffect/useref hook
-10.Difference b/W usestate and useref
-11. difference b/w class and functional components
-12.what is DOM
+What is react and its feature
+what is Virtual DOM
+what is state and props
+what is prop drilling
+what is react hooks
+what is react life cycle
+how react life cycle method achieved in functional components
+what is costom hooks
+what is useState/useEffect/useref hook
+Difference b/W usestate and useref
+difference b/w class and functional components
+what is DOM
