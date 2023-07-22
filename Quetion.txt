@@ -1,5 +1,4 @@
 React interview Quet
-
 What is react and its feature
 what is Virtual DOM
 what is state and props
